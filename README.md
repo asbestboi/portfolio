@@ -1,1 +1,2 @@
-# this is my portfolio. please check it out on [asbestboi.github.io/portfolio](https://asbestboi.github.io/portfolio/)
+# THIS SITE IS OUTDATED. 
+please check out the new site on [adambauer.org](https://adambauer.org/)
