@@ -176,4 +176,50 @@ h1 span{
   font-size:18px;
   color:white;
   text-shadow:0 10px 25px rgba(0,0,0,0.5);
+
+}
+@media (max-width: 900px) {
+  .card{
+    flex-direction: column;
+    padding: 28px;
+    gap: 22px;
+  }
+
+  .right{
+    order: -1;
+    justify-content: center;
+  }
+
+  .tilt-wrap{
+    max-width: 320px;
+  }
+  
+  h1{
+    font-size: 32px;
+  }
+
+  .projects h2,
+  .social-title{
+    font-size: 38px;
+    margin-top: 34px;
+  }
+
+  .socials{
+    gap: 14px;
+  }
+}
+
+@media (max-width: 420px) {
+  .card{
+    padding: 22px;
+  }
+
+  .tilt-wrap{
+    max-width: 260px;
+  }
+
+  .projects h2,
+  .social-title{
+    font-size: 32px;
+  }
 }
